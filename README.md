@@ -8,5 +8,5 @@
 | 15 сентября | Туториал Numpy. Разложение матриц | Лекция | [Видео](https://youtu.be/VS6JZXtyzRQ) |
 | 17 сентября | SVD разложение. Нахождение собственных чисел | Лекция | [Видео](https://youtu.be/gUdlVzDbP4Y) |
 | 22 сентября | Задача наименьших квадратов | Лекция | [Видео](https://youtu.be/U7VR0TJIQF8) |
-| 29 сентября | Нелинейная задача наименьших квадратов. Практика (SVD  разложение) | Лекция/Практика | [Видео](https://youtu.be/IXTAj7uujIU) [Notebook](./practice_notebooks/Practice-Sep29.ipynb) |
+| 29 сентября | Нелинейная задача наименьших квадратов. Практика (SVD  разложение) | Лекция/Практика | [Видео](https://youtu.be/IXTAj7uujIU)/[Notebook](./practice_notebooks/Practice-Sep29.ipynb) |
 | 1 октября | Повторение: теория вероятностей | Лекция | [Видео](https://youtu.be/G4FqYbWe3h4) |
