@@ -14,3 +14,5 @@
 | 8 октября | Моделирование данных: EM алгоритм | Лекция | [Видео](https://youtu.be/_BDWP1dheew) |
 | 13 октября | Задача наименьших квадратов | Практика | [Видео](https://youtu.be/tR8PS6oVv-8)/[Notebook](./practice_notebooks/Practice-Oct13.ipynb) |
 | 15 октября | Нелинейная оптимизация, градиентный спуск | Лекция | [Видео](https://youtu.be/Rt_ZkLZ8e7I) |
+| 20 октября | Градиентный спуск и его модификации | Лекция | [Видео](https://youtu.be/H8fmONLqWQg) |
+| 22 октября | MLE, EM-алгоритм | Практика | [Видео](https://youtu.be/Q1hMi0t7Rgo)/[Notebook](./practice_notebooks/Practice-Oct22.ipynb) |
