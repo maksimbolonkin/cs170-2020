@@ -18,3 +18,4 @@
 | 22 октября | MLE, EM-алгоритм | Практика | [Видео](https://youtu.be/Q1hMi0t7Rgo)/[Notebook](./practice_notebooks/Practice-Oct22.ipynb) |
 | 27 октября | Методы оптимизации, градиентный спуск | Практика | [Видео](https://youtu.be/OMuPYWxZxHA)/[Notebook](./practice_notebooks/Practice-Oct27.ipynb) |
 | 29 октября | Эвристические алгоритмы оптимизаци | Лекция | [Видео](https://youtu.be/WQpjWyKjB40) |
+| 3 ноября | Эвристические методы оптимизации | Практика | [Видео](https://youtu.be/MWNBSherb0c)/[Notebook](./practice_notebooks/Practice-Nov3.ipynb) |
