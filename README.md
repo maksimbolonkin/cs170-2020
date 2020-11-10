@@ -20,3 +20,4 @@
 | 29 октября | Эвристические алгоритмы оптимизаци | Лекция | [Видео](https://youtu.be/WQpjWyKjB40) |
 | 3 ноября | Эвристические методы оптимизации | Практика | [Видео](https://youtu.be/MWNBSherb0c)/[Notebook](./practice_notebooks/Practice-Nov3.ipynb) |
 | 5 ноября | Уменьшение размерности: PCA, MDS, Isomap, LLE | Лекция | [Видео](https://youtu.be/kiJeSgyyhFU) |
+| 10 ноября | Уменьшение размерности: ICA, t-SNE | Лекция | [Видео](https://youtu.be/wsJ98hQfqSQ) |
