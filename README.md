@@ -23,3 +23,4 @@
 | 10 ноября | Уменьшение размерности: ICA, t-SNE | Лекция | [Видео](https://youtu.be/wsJ98hQfqSQ) |
 | 12 ноября | LDA, метрики классификации | Лекция | [Видео](https://youtu.be/-Ado6pfT7n8) |
 | 17 ноября | PCA, t-SNE, кривая ROC| Практика | [Видео](https://youtu.be/uddx8UAgvAQ)/[Notebook](./practice_notebooks/Practice-Nov17.ipynb) |
+| 19 ноября | Метод Монте-Карло, генерация случайных чисел | Лекция | [Видео](https://youtu.be/8_sxRUc6_gE) |
