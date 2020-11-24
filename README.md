@@ -24,3 +24,4 @@
 | 12 ноября | LDA, метрики классификации | Лекция | [Видео](https://youtu.be/-Ado6pfT7n8) |
 | 17 ноября | PCA, t-SNE, кривая ROC| Практика | [Видео](https://youtu.be/uddx8UAgvAQ)/[Notebook](./practice_notebooks/Practice-Nov17.ipynb) |
 | 19 ноября | Метод Монте-Карло, генерация случайных чисел | Лекция | [Видео](https://youtu.be/8_sxRUc6_gE) |
+| 24 ноября | Метод Монте-Карло, генерация случайных чисел | Практика | [Видео](https://youtu.be/KNZ7J4QK_E8)/[Notebook](./practice_notebooks/Practice-Nov24.ipynb) |
