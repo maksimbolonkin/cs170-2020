@@ -26,3 +26,5 @@
 | 19 ноября | Метод Монте-Карло, генерация случайных чисел | Лекция | [Видео](https://youtu.be/8_sxRUc6_gE) |
 | 24 ноября | Метод Монте-Карло, генерация случайных чисел | Практика | [Видео](https://youtu.be/KNZ7J4QK_E8)/[Notebook](./practice_notebooks/Practice-Nov24.ipynb) |
 | 26 ноября | MCMC, Gibbs Sampling| Лекция | [Видео](https://youtu.be/Q1m4GitdxQM) |
+| 1 декабря | Ransac, MCMC, Gibbs Sampling | Практика | [Видео](https://youtu.be/eLsPcZ43F18)/[Notebook](./practice_notebooks/Practice-Dec1.ipynb) |
+| 26 ноября | Случайные поля Маркова| Лекция | [Видео](https://youtu.be/xYErmGcdkDA) |
