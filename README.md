@@ -28,5 +28,8 @@
 | 26 ноября | MCMC, Gibbs Sampling| Лекция | [Видео](https://youtu.be/Q1m4GitdxQM) |
 | 1 декабря | Ransac, MCMC, Gibbs Sampling | Практика | [Видео](https://youtu.be/eLsPcZ43F18)/[Notebook](./practice_notebooks/Practice-Dec1.ipynb) |
 | 3 декабря | Случайные поля Маркова| Лекция | [Видео](https://youtu.be/xYErmGcdkDA) |
-| 8 декабря | Случайные поля Маркова| Практика | [Видео](https://youtu.be/QlHh2vzr-kk) |
-| 10 декабря | Обыкновенные дифференциальные уравнения | Видео | [Видео](https://youtu.be/zzyvymI69W4) |
+| 8 декабря | Случайные поля Маркова| Практика | [Видео](https://youtu.be/QlHh2vzr-kk)/[Notebook](./practice_notebooks/Practice-Dec8.ipynb)|
+| 10 декабря | Обыкновенные дифференциальные уравнения | Лекция | [Видео](https://youtu.be/zzyvymI69W4) |
+| 15 декабря | Обыкновенные дифференциальные уравнения | Практика | [Видео](https://youtu.be/zA-5LjBQ1Sg)/[Notebook](./practice_notebooks/Practice-Dec14.ipynb) |
+| 16 декабря | Цифровая обработка сигналов | Лекция | [Видео](https://youtu.be/4PC3TzYKBTk) |
+| 17 декабря | Цифровая обработка изображений | Лекция | [Видео](https://youtu.be/xIYWuL_MjZE) |
