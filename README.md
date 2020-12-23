@@ -33,3 +33,5 @@
 | 15 декабря | Обыкновенные дифференциальные уравнения | Практика | [Видео](https://youtu.be/zA-5LjBQ1Sg)/[Notebook](./practice_notebooks/Practice-Dec14.ipynb) |
 | 16 декабря | Цифровая обработка сигналов | Лекция | [Видео](https://youtu.be/4PC3TzYKBTk) |
 | 17 декабря | Цифровая обработка изображений | Лекция | [Видео](https://youtu.be/xIYWuL_MjZE) |
+| 22 декабря | Цифровая обработка сигналов | Практика | [Видео](https://youtu.be/5_6Dw_n_qQI)/[Notebook](./practice_notebooks/Practice-Dec22.ipynb) |
+| 23 декабря | Туториал PyTorch | Практика | [Видео](https://youtu.be/8ceuC3khCtA)/[Notebook](./practice_notebooks/Practice-Dec23.ipynb) |
