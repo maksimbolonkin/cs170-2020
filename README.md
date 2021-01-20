@@ -36,3 +36,8 @@
 | 22 декабря | Цифровая обработка сигналов | Практика | [Видео](https://youtu.be/5_6Dw_n_qQI)/[Notebook](./practice_notebooks/Practice-Dec22.ipynb) |
 | 23 декабря | Туториал PyTorch | Практика | [Видео](https://youtu.be/8ceuC3khCtA)/[Notebook](./practice_notebooks/Practice-Dec23.ipynb) |
 | 24 декабря | Туториал PyTorch | Практика | [Видео](https://youtu.be/mtin86NTvxU)/[Notebook](./practice_notebooks/Practice-Dec23.ipynb) |
+| 13 января | Сверточные нейросети | Практика | [Видео](https://youtu.be/oDqcyOUpx5w)* |
+| 14 января | Сверточные нейросети | Практика | [Видео](https://youtu.be/f2FlpsHzTbg)* |
+| 20 января | Сверточные нейросети | Практика | [Видео](https://youtu.be/wOfoJon1H7U)*/[Notebook](./practice_notebooks/Practice-Jan19.ipynb) |
+
+*Слайды к лекциям доступны на [сайте](http://cs231n.stanford.edu/2019/) Стэнфордского курса.
